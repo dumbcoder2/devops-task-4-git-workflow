@@ -38,7 +38,7 @@ This project uses three branches:
 ## 5. Practical Implementation Screenshots
 
 ## Screenshots
-
+![Git Version](images/01-git-version.png)
 ### 1. Git Version
 ![Git Version](screenshots/01-git-version.png)
 
