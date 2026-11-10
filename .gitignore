@@ -1,0 +1,20 @@
+
+# Environment files
+.env
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
