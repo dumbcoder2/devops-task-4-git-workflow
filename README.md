@@ -37,27 +37,28 @@ This project uses three branches:
 
 ## 5. Practical Implementation Screenshots
 
-### 5.1 Git Installation
+## Screenshots
+
+### 1. Git Version
 ![Git Version](screenshots/01-git-version.png)
 
-### 5.2 Git User Configuration
+### 2. Git User Configuration
 ![Git User Configuration](screenshots/02-git-user-config.png)
 
-### 5.3 Repository Initialization
+### 3. Repository Initialization
 ![Repository Initialization](screenshots/03-repository-init.png)
 
-### 5.4 GitHub Repository
+### 4. GitHub Repository
 ![GitHub Repository](screenshots/04-github-repository.png)
 
-### 5.5 Branch Creation
+### 5. Branch Creation
 ![Branch Creation](screenshots/05-branch-creation.png)
 
-### 5.6 Branches and Commit History
-![Branch and Commit History](screenshots/06-branch-commit-history.png)
+### 6. Branch Creation and Commit History
+![Branch Commit History](screenshots/06-branch-commit-history.png)
 
-### 5.7 Pull Request: Dev to Main
-![Dev to Main Pull Request](screenshots/07-dev-to-main-pr.png)
-
+### 7. Pull Request
+![Pull Request](screenshots/07-dev-to-main-pr.png)
 ## 6. Project Documentation
 
 - `docs/git-commands.md` – Git commands reference guide.
